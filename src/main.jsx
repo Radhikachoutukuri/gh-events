@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 
 import App from './App';
 import './index.css';
-// this is important 
+// this is important update to specicy
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
